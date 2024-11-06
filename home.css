@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+.img{
+	display:block;
+	margin-left:auto;
+	margin-right: auto;
+	
+	
+}
+#body{
+	background-color:#d2a985;
+}
+#Ancor{
+	display:block;
+	margin-left:auto;
+	margin-right: auto;
+	
+}
+#h1{
+		display:block;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	align-items: center;
+	
+}
+#text{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	align-items: center;
+}
+#button{
+	background-color:blue;
+	height:35px;
+	width:75px;
+}
+#input{
+	height:25px;
+	width:300px;
+}
